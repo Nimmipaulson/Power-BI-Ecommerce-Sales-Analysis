@@ -29,8 +29,8 @@ The assignment uses three CSV files and demonstrates essential data preparation 
 | `Order Details.csv` | Contains order details, including amount, profit, category, and sub-category where available. |
 | `Sales target.csv` | Contains sales target information. |
 | `Power_BI_Assignment.pdf` | Assignment instructions. |
-| `Power_BI_Assignment_Steps_Guide.docx` | Detailed instructions explaining how to complete each assignment task. |
 | `Power_BI_Project.pbix` | Power BI project file. |
+| `Power_BI_Assignment_Steps_Guide.docx` | Detailed instructions explaining how to complete each assignment task. |
 
 
 ## 🛠️ Tools and Technologies
